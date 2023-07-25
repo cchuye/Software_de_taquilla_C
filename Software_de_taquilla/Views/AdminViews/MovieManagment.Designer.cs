@@ -126,6 +126,7 @@
             data_grid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             data_grid.Location = new Point(438, 17);
             data_grid.Name = "data_grid";
+            data_grid.RowHeadersWidth = 51;
             data_grid.RowTemplate.Height = 25;
             data_grid.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             data_grid.Size = new Size(564, 283);
@@ -135,23 +136,22 @@
             // 
             txt_publico.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
             txt_publico.Location = new Point(26, 102);
-            txt_publico.Multiline = true;
             txt_publico.Name = "txt_publico";
-            txt_publico.Size = new Size(178, 26);
+            txt_publico.Size = new Size(178, 27);
             txt_publico.TabIndex = 14;
             // 
             // txt_name
             // 
             txt_name.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
             txt_name.Location = new Point(26, 49);
-            txt_name.Multiline = true;
             txt_name.Name = "txt_name";
-            txt_name.Size = new Size(178, 26);
+            txt_name.Size = new Size(178, 27);
             txt_name.TabIndex = 13;
             // 
             // txt_duracion
             // 
             txt_duracion.Location = new Point(259, 59);
+            txt_duracion.Maximum = new decimal(new int[] { 500, 0, 0, 0 });
             txt_duracion.Name = "txt_duracion";
             txt_duracion.Size = new Size(120, 23);
             txt_duracion.TabIndex = 25;
@@ -202,8 +202,6 @@
             panel_picture.Name = "panel_picture";
             panel_picture.Size = new Size(177, 100);
             panel_picture.TabIndex = 32;
-            panel_picture.DragDrop += panel_picture_DragDrop;
-            panel_picture.DragEnter += panel_picture_DragEnter;
             // 
             // label6
             // 
