@@ -1786,6 +1786,7 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Doris\\.nuget\\packages\\": {}
 =======
 <<<<<<< HEAD
@@ -1795,10 +1796,14 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
 >>>>>>> 9ebdcf2971686cbdf2db429bdc66e287a81b7b29
 >>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283
+=======
+    "C:\\Users\\olste\\.nuget\\packages\\": {}
+>>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Doris\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
       "projectName": "Software_de_taquilla",
@@ -1820,11 +1825,16 @@
       "outputPath": "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\",
 >>>>>>> 9ebdcf2971686cbdf2db429bdc66e287a81b7b29
 >>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283
+=======
+      "projectUniqueName": "C:\\Users\\olste\\Desktop\\Development\\work_space\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
+      "projectName": "Software_de_taquilla",
+      "projectPath": "C:\\Users\\olste\\Desktop\\Development\\work_space\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
+      "packagesPath": "C:\\Users\\olste\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\olste\\Desktop\\Development\\work_space\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\",
+>>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
+<<<<<<< HEAD
 <<<<<<< HEAD
         "C:\\Users\\Doris\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
@@ -1835,6 +1845,9 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
 >>>>>>> 9ebdcf2971686cbdf2db429bdc66e287a81b7b29
 >>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283
+=======
+        "C:\\Users\\olste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1885,6 +1898,7 @@
           }
         },
 <<<<<<< HEAD
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
 =======
 <<<<<<< HEAD
@@ -1895,6 +1909,9 @@
 =======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
 >>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+>>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
       }
     }
   },
@@ -1904,11 +1921,14 @@
       "level": "Warning",
       "warningLevel": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problema al leer el archivo de caché C:\\Users\\Doris\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
 =======
       "message": "Problema al leer el archivo de caché C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
 >>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283
+=======
+      "message": "Problema al leer el archivo de caché C:\\Users\\olste\\Desktop\\Development\\work_space\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
     }
   ]
->>>>>>> 9ebdcf2971686cbdf2db429bdc66e287a81b7b29
 }
