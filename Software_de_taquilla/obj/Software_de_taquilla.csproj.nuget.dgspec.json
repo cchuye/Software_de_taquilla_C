@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Doris\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj": {}
   },
   "projects": {
@@ -12,9 +13,48 @@
         "projectPath": "C:\\Users\\Doris\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
         "packagesPath": "C:\\Users\\Doris\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Doris\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\",
+=======
+<<<<<<< HEAD
+    "C:\\Users\\d_car\\OneDrive\\Escritorio\\UMG\\4toaño\\2do semestre\\analisis de sistemas 2\\Proyecto1\\PROYECTO1\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\d_car\\OneDrive\\Escritorio\\UMG\\4toaño\\2do semestre\\analisis de sistemas 2\\Proyecto1\\PROYECTO1\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\d_car\\OneDrive\\Escritorio\\UMG\\4toaño\\2do semestre\\analisis de sistemas 2\\Proyecto1\\PROYECTO1\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
+        "projectName": "Software_de_taquilla",
+        "projectPath": "C:\\Users\\d_car\\OneDrive\\Escritorio\\UMG\\4toaño\\2do semestre\\analisis de sistemas 2\\Proyecto1\\PROYECTO1\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
+        "packagesPath": "C:\\Users\\d_car\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d_car\\OneDrive\\Escritorio\\UMG\\4toaño\\2do semestre\\analisis de sistemas 2\\Proyecto1\\PROYECTO1\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\",
+=======
+    "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
+        "projectName": "Software_de_taquilla",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\",
+>>>>>>> 9ebdcf2971686cbdf2db429bdc66e287a81b7b29
+>>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Doris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\d_car\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 9ebdcf2971686cbdf2db429bdc66e287a81b7b29
+>>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +104,15 @@
               "privateAssets": "none"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+>>>>>>> 9ebdcf2971686cbdf2db429bdc66e287a81b7b29
+>>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283
         }
       }
     }
