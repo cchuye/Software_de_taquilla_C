@@ -14,8 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Software_de_taquilla
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Doris\Desktop\Software_de_taquilla_C\Software_de_taquilla\
-=======
-build_property.ProjectDir = C:\Users\Usuario\Desktop\Software_de_taquilla_C\Software_de_taquilla\
->>>>>>> 2703b48dd37a3db8efd7e1ed8b616a19e3711283

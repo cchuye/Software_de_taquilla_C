@@ -1787,6 +1787,7 @@
   "packageFolders": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Doris\\.nuget\\packages\\": {}
 =======
 <<<<<<< HEAD
@@ -1799,10 +1800,15 @@
 =======
     "C:\\Users\\olste\\.nuget\\packages\\": {}
 >>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
+=======
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> c21d2e32a7098344c55dfb64fe4a296d17261ab0
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Doris\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
@@ -1832,8 +1838,19 @@
       "packagesPath": "C:\\Users\\olste\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\olste\\Desktop\\Development\\work_space\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\",
 >>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
+=======
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
+      "projectName": "Software_de_taquilla",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\Software_de_taquilla.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Software_de_taquilla_C\\Software_de_taquilla\\obj\\",
+>>>>>>> c21d2e32a7098344c55dfb64fe4a296d17261ab0
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         "C:\\Users\\Doris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1848,6 +1865,10 @@
 =======
         "C:\\Users\\olste\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
+=======
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> c21d2e32a7098344c55dfb64fe4a296d17261ab0
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1899,6 +1920,7 @@
         },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
 =======
 <<<<<<< HEAD
@@ -1931,4 +1953,10 @@
 >>>>>>> ae9a9c2b36fdc84561a0750a260476b2804f243d
     }
   ]
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+>>>>>>> c21d2e32a7098344c55dfb64fe4a296d17261ab0
 }
