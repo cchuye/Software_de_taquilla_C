@@ -8,33 +8,32 @@ using MySql.Data.MySqlClient;
 
 namespace Software_de_taquilla.Models.Dao
 {
-    public class ScheduleDao : DBContext
+    public class AsientoDao : DBContext
     {
-        public List<Schedule> getSchedules()
+        public List<Asiento> getAsiento()
         {
+
             this.connection.Open();
-            List<Schedule> schedules = new List<Schedule>();
-            string sql = "select * from horario";
+            List<Asiento> asientos = new List<Asiento>();
+            string sql = "select * from asiento";
             MySqlCommand cursor = new MySqlCommand(sql, this.connection);
             MySqlDataReader reader = cursor.ExecuteReader();
             while (reader.Read())
             {
                 int id = reader.GetInt32(0);
-                string h_i = reader.GetString(1);
-                string h_f = reader.GetString(2);
-                int id_m = reader.GetInt32(3);
-                Schedule sc = new Schedule(id, h_i, h_f, id_m);
-                schedules.Add(sc);
+                int n = reader.GetInt32(1);
+                Asiento city = new Asiento(id, n);
+                asientos.Add(city);
             }
             this.connection.Close();
-            return schedules;
+            return asientos;
         }
 
-        public void insertarSchedule(Schedule sc)
+
+        public void updateAsiento(int id, int state)
         {
             this.connection.Open();
-            string sql = "insert into horario(hora_inicio, hora_fin, id_pelicula)";
-            sql += "values('" + sc.h_start + "', '" + sc.h_final + "', '" + sc.id_movie + "' );";
+            string sql = "update from asiento set estado='" + state + "' where numero='" + id + "'";
             MySqlCommand cursor = new MySqlCommand(sql, this.connection);
             cursor.ExecuteNonQuery();
             this.connection.Close();
